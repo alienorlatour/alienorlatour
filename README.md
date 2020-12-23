@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**ablqk/ablqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+While I aim to progress in cloud microservices and writing in the GO language, I’ve never really left front-end web UI/UX, as it leaves ample room for creativity in small projects that fit into a few long winter evenings.
 
-Here are some ideas to get you started:
+[Find me on LinkedIn](https://www.linkedin.com/in/ali%C3%A9nor-latour-56905b4b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About what I do
+
+I use GitHub for my scarce personal projects, because life.
+
+Namely, you will find here some things I made for friends or just for fun:
+- [My take on the Advent Of Code 2020](http://github.com/ablqk/adventofcode), using the GO language,
+- Various websites whose code I need to cleanup before I dare make them public.
