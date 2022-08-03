@@ -9,5 +9,5 @@ While I aim to progress in cloud microservices and writing in the GO language, I
 I use GitHub for my scarce personal projects, because life.
 
 Namely, you will find here some things I made for friends or just for fun:
-- [My take on the Advent Of Code 2020](http://github.com/ablqk/adventofcode), using the GO language,
+- [Translating the Arduino Start Kit code into Go](https://github.com/ablqk/arduino-starterkit)
 - Various websites whose code I need to cleanup before I dare make them public.
